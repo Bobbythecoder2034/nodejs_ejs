@@ -1,0 +1,25 @@
+{
+  "name": "nodejs_ejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start":"node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bobbythecoder2034/nodejs_ejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Bobbythecoder2034/nodejs_ejs/issues"
+  },
+  "homepage": "https://github.com/Bobbythecoder2034/nodejs_ejs#readme",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^5.1.0"
+  }
+}
